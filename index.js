@@ -1,6 +1,6 @@
-function theBeatlesPlay(m, i){
+function theBeatlesPlay(m, x){
   temp = []
   for (i=0; i<4; i++){
-    temp.push('$m[')
+    temp.push('${m[i]}')
   }
 }
