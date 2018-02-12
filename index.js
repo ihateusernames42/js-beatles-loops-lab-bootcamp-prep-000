@@ -1,5 +1,5 @@
 function theBeatlesPlay(m, x){
-  temp = []
+  var temp = []
   for (i=0; i<4; i++){
     temp.push('${m[i]} plays ${x[i]}')
   }
