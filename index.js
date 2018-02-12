@@ -7,8 +7,12 @@ function theBeatlesPlay(m, x){
 }
 function johnLennonFacts(a){
   var x=a.length;
+  var g = 0
   var temp = []
   while (x>0){
-    
+    temp.push(a[g] + "!!!");
+    x--;
+    g++;
   } 
+  return temp 
 }
