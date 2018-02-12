@@ -5,3 +5,10 @@ function theBeatlesPlay(m, x){
   }
   return temp
 }
+function johnLennonFacts(a){
+  var x=a.length;
+  var temp = []
+  while (x>0){
+    
+  } 
+}
